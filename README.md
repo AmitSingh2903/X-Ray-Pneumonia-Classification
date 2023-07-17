@@ -3,7 +3,7 @@ Project Title: X-ray Image Classification for Pneumonia and COVID Detection Usin
 Project Description:
 
 In this project, we aimed to develop a deep learning model for accurately classifying X-ray images as either pneumonia or COVID cases. 
-The objective was to compare accuracy of different types of CNN, where we used two:; DenseNet and MobileNetV2 and acheived an accuracy of something close to 54.5% and later using feature scaling we were able to get something close to 85%.
+The objective was to compare accuracy of different types of CNN, where we used two: DenseNet and MobileNetV2 and acheived an accuracy of something close to 54.5% and later using feature scaling we were able to get something close to 85%.
 
 To begin, we collected a dataset consisting of X-ray images from pneumonia and COVID cases. The dataset was preprocessed to ensure uniformity in size and format. We split the dataset into training and testing sets, preserving class distribution in each subset.
 
